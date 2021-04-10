@@ -33,6 +33,8 @@
  - socket 통신을 이용해 직접 연결해보며 네트워크 통신에 대해 공부할 수 있었다.
 
 ## 발표 자료
-[1차 발표 ppt]
+[1차 발표 ppt](https://github.com/pika96/2019_Teamploud/blob/main/ppt/ppt1.pdf)
+
 [2차 발표 ppt](https://github.com/pika96/2019_Teamploud/blob/main/ppt/ppt2.pdf)
+
 [최종 발표 ppt](https://github.com/pika96/2019_Teamploud/blob/main/ppt/ppt3.pdf)
